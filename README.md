@@ -1,3 +1,3 @@
 ## BBeditions.com 
 
-One page website. Nothing fancy to see
+One page minimal website. Nothing fancy to see
